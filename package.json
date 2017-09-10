@@ -1,0 +1,23 @@
+{
+  "name": "kodilla_zad_16_3",
+  "version": "1.0.0",
+  "description": "example zad_163",
+  "main": "app.js",
+  "scripts": {
+    "start": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "keywords": [
+    "gtrunt"
+  ],
+  "author": "albert",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-latest": "^6.24.1",
+    "webpack": "^3.5.6"
+  }
+}
